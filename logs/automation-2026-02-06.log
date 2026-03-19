@@ -1,0 +1,41 @@
+16:36:15.062 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.076 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.077 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.078 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.080 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.081 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.081 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.082 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.082 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.082 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+16:36:15.082 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+16:36:15.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kumaran.balakrishnan\AppData\Local\Temp\testng-eclipse-418074700\testng-customsuite.xml
+
+16:36:15.117 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+16:36:15.507 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@346a361: 229 ms
+16:36:15.529 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7c351808: 22 ms
+16:36:15.548 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@743cb8e0: 19 ms
+16:36:15.561 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5cc126dc: 13 ms
+16:36:15.573 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3d08f3f5: 12 ms
+16:36:15.574 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@119f1f2a: 1 ms
+16:38:21.811 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\master.xml"
+16:38:21.830 [main] WARN  org.testng.xml.TestNGContentHandler - Failed to read [/C:/Users/kumaran.balakrishnan/Workspace/AmazonCart/testng-1.0.dtd] from CLASSPATH. Attempting to read from [file:///C:/Users/kumaran.balakrishnan/Workspace/AmazonCart/testng-1.0.dtd].
+16:38:21.833 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\master.xml] otherwise TestNG may fail or not work as expected.
+16:38:22.038 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\master.xml
+
+16:42:04.604 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\testng.xml"
+16:42:04.624 [main] WARN  org.testng.xml.TestNGContentHandler - Failed to read [/C:/Users/kumaran.balakrishnan/Workspace/AmazonCart/testng-1.0.dtd] from CLASSPATH. Attempting to read from [file:///C:/Users/kumaran.balakrishnan/Workspace/AmazonCart/testng-1.0.dtd].
+16:42:04.629 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\testng.xml] otherwise TestNG may fail or not work as expected.
+16:42:04.843 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\testng.xml
+
+13:35:19.475 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\master.xml"
+13:35:19.515 [main] WARN  org.testng.xml.TestNGContentHandler - Failed to read [/C:/Users/kumaran.balakrishnan/Workspace/AmazonCart/testng-1.0.dtd] from CLASSPATH. Attempting to read from [file:///C:/Users/kumaran.balakrishnan/Workspace/AmazonCart/testng-1.0.dtd].
+13:35:19.522 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\kumaran.balakrishnan\Workspace\AmazonCart\master.xml] otherwise TestNG may fail or not work as expected.
